@@ -1,0 +1,14 @@
+{
+    "name": "kwt-wev/clusterBundle",
+    "type": "symfony-bundle",
+    "homepage": "https://github.com/kwt-wev/clusterBundle",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "clusterBundle\\clusterBundlee\\": "src"
+      }
+    },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+    "require": {}
+}

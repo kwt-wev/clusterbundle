@@ -1,0 +1,12 @@
+{
+  "name": "cluster-bundle/cluster-bundle",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "cluster-bundle\\cluster-bundle\\": "src/"
+    }
+  },
+"minimum-stability": "dev",
+"prefer-stable": true,
+  "require": {}
+}
